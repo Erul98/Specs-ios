@@ -35,6 +35,6 @@ Pod::Spec.new do |s|
     s.dependency 'TekoTracker', '~> 1.10'
     s.dependency 'TekLocalize', '~> 0.1'
     s.dependency 'SnapKit', '~> 5.0.1'
-    s.dependency 'TekAutomationTestContract', '0.1.0-OMNI1078.1'
+    s.dependency 'TekAutomationTestContract', '~> 0.1.0-OMNI1078'
     
   end
