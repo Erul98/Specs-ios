@@ -57,6 +57,6 @@ Pod::Spec.new do |s|
     s.dependency 'ESPullToRefresh'
 
     ## otherPods
-    s.dependency 'ShopFrontWebCoreSDK', '0.2.0-ECOM479.6'
+    s.dependency 'ShopFrontWebCoreSDK', '~> 0.2.0-ECOM479'
     s.dependency 'Logging'
   end
