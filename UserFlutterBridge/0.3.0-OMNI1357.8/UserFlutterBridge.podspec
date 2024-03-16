@@ -28,4 +28,5 @@ Pod::Spec.new do |s|
     s.dependency 'TerraInstancesManager', '~> 2.1'
     s.dependency 'TekLocalize', '~> 0.1'
     s.dependency 'TekoTracker', '~> 1.10'
+    s.dependency 'GoogleMLKit/BarcodeScanning', '~> 5.0.0'
   end
